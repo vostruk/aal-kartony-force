@@ -1,0 +1,5 @@
+### ZBIERANIE WYNIKOW Z KAZDEGO URUCHOMIENIA PROGRAMU TU ###
+____________________________________________________________
+DATA WYGENEROWANIA  | N KARTONOW | CZAS [SEK]| ULEPSZENIE  |
+--------------------+------------+-----------+-------------|
+

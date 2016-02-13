@@ -1,0 +1,26 @@
+### PLIK WYNIKOWY Z UPAKOWANIAMI KARTONOW ###
+# DATA WYGENEROWANIA        				   :  _25-01-2016_12-05-51
+# ILOSC WSZYSTKICH KARTONOW PRZED PAKOWANIEM   :  4
+# CZAS PAKOWANIA               				   :  0.001000 [sec]
+# ILOSC PACZEK KARTONOW        				   :  3
+# CALKOWITA ZAJETA OBJĘTOŚĆ PO UPAKOWANIU      :  673.000000
+# ZAOSZCZĘDZONO MIEJSCA W POROWNANIU Z PRZED   :  2.322205 %
+
+UPAKOWANIA KARTONOW
+=====================================================================
+ ID          | DLUGOŚĆ    | SZEROKOŚĆ  | WYSOKOŚĆ   | OBJĘTOŚĆ      |
+=====================================================================
+                          Upakowanie 0
+---------------------------------------------------------------------
+     1       | 60         | 3          | 3          | 540           |
+
+                          Upakowanie 1
+---------------------------------------------------------------------
+     0       | 5          | 5          | 5          | 125           |
+     2       | 4          | 2          | 2          | 16            |
+
+                          Upakowanie 2
+---------------------------------------------------------------------
+     3       | 4          | 4          | 0.5        | 8             |
+
+

@@ -1,0 +1,10 @@
+# ===================    Plik z danymi o Kartonach    ==========================
+#
+# Linije zaczynajace sie od # sa ignorowane
+# Format danych: trzy wartosci (szerokosc, dlugosc, wysokosc) rozdzielone spacjami.
+# Kolejnosc podanie nie ma zasadniczego znaczenia
+
+5.0 5.0 5.0
+3.0 3.0 60.0
+2.0 2.0 4.0
+4.0 4.0 0.5
